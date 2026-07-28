@@ -111,6 +111,14 @@ The dashboard enables users to interactively filter data and explore key perform
 
 
 
+---
+
+## 📥 Download Full Project
+
+📁 **[Download the complete project from Google Drive](https://drive.google.com/drive/folders/1gu_rmtyA8OKtLfYmGp4pz5g7XhD_Wd0Y?usp=sharing)**
+
+---
+
 ## 🚀 Skills Demonstrated
 
 - Data Cleaning

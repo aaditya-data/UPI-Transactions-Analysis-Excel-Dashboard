@@ -138,7 +138,7 @@ The dashboard enables users to interactively filter data and explore key perform
 
 **Aaditya Prasad**
 
-- LinkedIn: 
+- LinkedIn: **https://www.linkedin.com/in/aaditya-prasad-704a54355**
 - Portfolio: **https://aadityaprasad.me**
 - GitHub: **https://github.com/aaditya-data**
 

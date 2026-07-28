@@ -109,7 +109,7 @@ The dashboard enables users to interactively filter data and explore key perform
 
 ## 📷 Dashboard Preview
 
-
+![UPI Transaction Dashboard](UPI%20Transaction%20Analysis/UPI%20Transaction%20Dashboard.png)
 
 ---
 
